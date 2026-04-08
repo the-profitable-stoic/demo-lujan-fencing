@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Lujan Fencing",
+    "phone": "+18169825001",
+    "category": "fence company",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Kansas City's Trusted Fence Experts",
+      "heroSubline": "Protecting your property with durable, expertly installed fences. Serving Kansas City and surrounding areas for over a decade.",
+      "aboutTitle": "Built on Integrity, Driven by Quality",
+      "aboutText": [
+        "Lujan Fencing started with a simple mission: to provide Kansas City homeowners and businesses with fencing solutions built to last. We saw too many flimsy fences failing after a single harsh winter, and knew we could do better.",
+        "Our approach is straightforward. We use premium materials, proven techniques, and a dedicated team of skilled installers. We're not just building fences; we're building relationships with our clients, ensuring their satisfaction every step of the way.",
+        "We're proud to be a part of the Kansas City community. We support local initiatives and strive to contribute to the safety and beauty of our neighborhoods. When you choose Lujan Fencing, you're choosing a company that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We only use high-quality wood, vinyl, and metal to withstand Kansas City's weather extremes."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise and secure fence installation, built to last for years."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "From classic to contemporary, we create custom fence designs tailored to your property and style."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Kansas City's soil conditions and building codes, ensuring compliance and longevity."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today!",
+      "ctaSubline": "Get a free quote and discover the Lujan Fencing difference."
+    },
+    "services": [
+      {
+        "slug": "wood-fences",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences providing privacy and natural beauty to your Kansas City property.",
+        "description": "Wood fences offer a timeless aesthetic and versatile design options for any Kansas City home. From traditional picket fences to privacy fences, we build custom wood fences using pressure-treated lumber to withstand the region's fluctuating temperatures and humidity. We understand the challenges of Kansas City's clay soil and ensure proper post setting and drainage to prevent warping and rot. Our wood fences are designed to enhance your property's curb appeal while providing security and privacy. \n\nWe offer a variety of wood types, including cedar, pine, and redwood, each with its unique characteristics and benefits. Our expert team will guide you through the selection process, considering your budget and aesthetic preferences. We also provide staining and sealing services to protect your wood fence from the elements and prolong its lifespan. A well-maintained wood fence adds value and character to your home for years to come. \n\nWhether you're in Brookside or Northland, we'll craft a wood fence that complements your home's architecture and meets your specific needs. We handle all aspects of the project, from initial consultation to final inspection, ensuring a seamless and stress-free experience.",
+        "process": [
+          "Consultation and Design",
+          "Material Selection",
+          "Permitting (if required)",
+          "Professional Installation"
+        ],
+        "benefits": [
+          "Enhanced Privacy",
+          "Improved Security",
+          "Increased Property Value",
+          "Natural Aesthetic"
+        ],
+        "faq": [
+          {
+            "question": "How long does a wood fence typically last in Kansas City?",
+            "answer": "With proper maintenance, a well-built wood fence can last 15-20 years in the Kansas City climate. Regular staining and sealing are crucial for preventing rot and weathering."
+          },
+          {
+            "question": "What type of wood is best for fences in Kansas City?",
+            "answer": "Pressure-treated pine is a popular and cost-effective option, but cedar offers superior resistance to rot and insects. We can help you choose the best wood for your budget and needs."
+          },
+          {
+            "question": "Do I need a permit to build a wood fence in Kansas City?",
+            "answer": "Permit requirements vary depending on your location and the height of the fence. We handle the permitting process for you, ensuring compliance with all local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fences",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences offering durability and a clean, modern look for your Kansas City property.",
+        "description": "Vinyl fences are an excellent choice for Kansas City homeowners seeking a durable, low-maintenance fencing solution. Unlike wood, vinyl fences won't rot, warp, or require painting, making them ideal for our region's fluctuating weather conditions. We install high-quality vinyl fences in a variety of styles, from traditional picket fences to privacy fences, all designed to withstand the elements and maintain their beauty for years to come.\n\nOur vinyl fences are made from premium materials that are resistant to fading, cracking, and impact. We use advanced installation techniques to ensure a secure and long-lasting fence that will enhance your property's value and curb appeal. Whether you live in a historic home in Brookside or a newer development in Northland, we can create a vinyl fence that complements your home's architecture and meets your specific needs.\n\nWe understand the importance of proper installation, especially in Kansas City's clay soil. Our team takes extra care to ensure proper post setting and drainage to prevent shifting and settling. We also offer a variety of colors and textures to choose from, allowing you to customize your vinyl fence to match your personal style. With a vinyl fence from Lujan Fencing, you can enjoy a beautiful and secure property without the hassle of constant maintenance.",
+        "process": [
+          "Site Assessment",
+          "Design and Planning",
+          "Material Delivery",
+          "Professional Installation"
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Long-lasting Durability",
+          "Weather Resistance",
+          "Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "How long does a vinyl fence last in Kansas City?",
+            "answer": "A properly installed vinyl fence can last 30 years or more in Kansas City, with minimal maintenance."
+          },
+          {
+            "question": "Will a vinyl fence fade in the Kansas City sun?",
+            "answer": "Our vinyl fences are made with UV inhibitors to prevent fading and discoloration, even in direct sunlight."
+          },
+          {
+            "question": "Are vinyl fences more expensive than wood fences?",
+            "answer": "While the initial cost of a vinyl fence may be higher than a wood fence, the long-term cost is often lower due to reduced maintenance and longer lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fences",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and secure chain link fences for residential and commercial properties in Kansas City.",
+        "description": "Chain link fences provide a cost-effective and reliable security solution for both residential and commercial properties in Kansas City. We install durable chain link fences in a variety of heights and gauges to meet your specific needs. Whether you're looking to secure your backyard, protect your business, or enclose a sports field, we have the expertise to deliver a high-quality chain link fence that will stand the test of time.\n\nOur chain link fences are made from galvanized steel for superior rust resistance, ensuring long-lasting performance in Kansas City's challenging climate. We offer a variety of options, including black vinyl-coated chain link, which provides a more aesthetically pleasing look while still maintaining the strength and security of traditional chain link. We also offer privacy slats, which can be added to chain link fences to increase privacy and reduce visibility.\n\nWe understand the importance of proper installation, especially for commercial properties. Our team has extensive experience installing chain link fences for businesses throughout Kansas City, ensuring compliance with all local regulations and security requirements. We also offer gate installation and repair services to complete your chain link fence system. With a chain link fence from Lujan Fencing, you can enjoy peace of mind knowing that your property is secure and protected.",
+        "process": [
+          "Property Survey",
+          "Material Selection",
+          "Post Installation",
+          "Chain Link Installation"
+        ],
+        "benefits": [
+          "Affordable Security",
+          "Durable and Long-lasting",
+          "Low Maintenance",
+          "Versatile Applications"
+        ],
+        "faq": [
+          {
+            "question": "How long does a chain link fence last in Kansas City?",
+            "answer": "A well-maintained chain link fence can last 20-30 years or more in Kansas City."
+          },
+          {
+            "question": "What gauge chain link fence is best for security?",
+            "answer": "We recommend a heavier gauge chain link fence for increased security, especially for commercial properties."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, we offer privacy slats in a variety of colors and materials to enhance the privacy of your chain link fence."
+          }
+        ]
+      },
+      {
+        "slug": "ornamental-iron-fences",
+        "name": "Ornamental Iron Fence Installation",
+        "shortDescription": "Elegant and secure ornamental iron fences adding sophistication and security to Kansas City homes.",
+        "description": "Ornamental iron fences offer a blend of elegance and security, enhancing the curb appeal and value of your Kansas City home. We specialize in designing and installing custom ornamental iron fences that complement your home's architecture and reflect your personal style. From classic wrought iron designs to modern steel fences, we create stunning fences that provide both beauty and security.\n\nOur ornamental iron fences are made from high-quality materials and are expertly crafted to withstand the elements. We offer a variety of finishes, including powder coating, which provides superior rust resistance and a durable, long-lasting finish. We also offer custom gate designs to complete your ornamental iron fence system. Whether you live in a historic home in Westport or a modern condo in the River Market, we can create an ornamental iron fence that enhances the beauty and security of your property.\n\nWe understand the importance of proper installation, especially for ornamental iron fences. Our team has extensive experience installing ornamental iron fences throughout Kansas City, ensuring precise and secure installation. We also offer repair and maintenance services to keep your ornamental iron fence looking its best for years to come. With an ornamental iron fence from Lujan Fencing, you can enjoy a beautiful and secure property that will be the envy of your neighbors.",
+        "process": [
+          "Detailed Design Consultation",
+          "Custom Fabrication",
+          "Professional Welding",
+          "Protective Coating"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Security",
+          "Custom Designs",
+          "Long-lasting Durability"
+        ],
+        "faq": [
+          {
+            "question": "How long does an ornamental iron fence last in Kansas City?",
+            "answer": "With proper maintenance, an ornamental iron fence can last for generations in Kansas City."
+          },
+          {
+            "question": "What is the best finish for an ornamental iron fence?",
+            "answer": "Powder coating provides superior rust resistance and a durable, long-lasting finish for ornamental iron fences."
+          },
+          {
+            "question": "Can I customize the design of my ornamental iron fence?",
+            "answer": "Yes, we specialize in designing custom ornamental iron fences that reflect your personal style and complement your home's architecture."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair Services",
+        "shortDescription": "Fast and reliable fence repair services for all types of fences in the Kansas City metro area.",
+        "description": "Lujan Fencing provides comprehensive fence repair services throughout the Kansas City metro area. We understand that fences can be damaged by severe weather, accidents, or simply wear and tear. Our experienced team can quickly diagnose and repair any type of fence, from wood and vinyl to chain link and ornamental iron. We offer prompt and reliable service to restore the security and beauty of your property.\n\nWe handle all types of fence repairs, including broken posts, damaged panels, sagging gates, and loose hardware. We use high-quality materials and proven techniques to ensure lasting repairs that will withstand the elements. We also offer emergency fence repair services for situations where immediate action is required, such as after a storm or accident.\n\nWhether you need a minor repair or a major overhaul, Lujan Fencing is here to help. We offer competitive pricing and a commitment to customer satisfaction. We'll work with you to assess the damage and provide a cost-effective solution that meets your needs. With our fence repair services, you can avoid the expense of replacing your entire fence and keep your property secure and looking its best.",
+        "process": [
+          "Inspection and Assessment",
+          "Material Procurement",
+          "Repair Execution",
+          "Quality Check"
+        ],
+        "benefits": [
+          "Cost-Effective Solutions",
+          "Fast and Reliable Service",
+          "Experienced Technicians",
+          "Emergency Repairs"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost in Kansas City?",
+            "answer": "The cost of fence repair varies depending on the type of damage and the materials required. We offer free estimates to assess the damage and provide a detailed quote."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for situations where immediate action is required."
+          },
+          {
+            "question": "What types of fences do you repair?",
+            "answer": "We repair all types of fences, including wood, vinyl, chain link, and ornamental iron."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gate solutions for residential and commercial properties in Kansas City.",
+        "description": "Lujan Fencing specializes in gate installation and repair services for both residential and commercial properties throughout Kansas City. A properly functioning gate is essential for security, convenience, and curb appeal. We offer a wide range of gate options, from simple walk-through gates to automated driveway gates, all designed to meet your specific needs and enhance the value of your property.\n\nWe install gates in a variety of materials, including wood, vinyl, chain link, and ornamental iron. Our experienced team will work with you to select the perfect gate style and material to complement your fence and enhance your property's overall aesthetic. We also offer custom gate designs to create a unique and personalized entrance to your property.\n\nIn addition to gate installation, we also provide comprehensive gate repair services. We can repair damaged gates, replace broken hardware, and adjust gate alignment to ensure smooth and reliable operation. We also offer gate opener repair and installation services for automated gates. Whether you need a new gate installed or an existing gate repaired, Lujan Fencing is here to help.",
+        "process": [
+          "Consultation and Design",
+          "Material Selection",
+          "Professional Installation",
+          "Testing and Adjustment"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Convenience",
+          "Increased Property Value",
+          "Custom Designs"
+        ],
+        "faq": [
+          {
+            "question": "How much does gate installation cost in Kansas City?",
+            "answer": "The cost of gate installation varies depending on the type of gate, the materials used, and the complexity of the installation. We offer free estimates to assess your needs and provide a detailed quote."
+          },
+          {
+            "question": "Do you offer automated gate systems?",
+            "answer": "Yes, we offer a wide range of automated gate systems for both residential and commercial properties."
+          },
+          {
+            "question": "Can you repair my existing gate?",
+            "answer": "Yes, we offer comprehensive gate repair services for all types of gates."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Lujan Fencing is proud to offer our expert fence installation and repair services to the residents of Overland Park, MO. Known for its established suburban neighborhoods dating back to the 1970s, 80s, and 90s, Overland Park presents unique fencing needs that we are well-equipped to handle. We understand the importance of maintaining the aesthetic appeal of your property while providing security and privacy for your family. \n\nOur team is experienced in working with a variety of fence styles suitable for the Overland Park landscape, from classic wood fences to durable vinyl and chain-link options. We are also mindful of the region's climate, particularly the cold winters and potential for ice storms, ensuring that your fence is built to withstand the elements and provide lasting value. We are committed to delivering exceptional craftsmanship and customer service to every homeowner in Overland Park. We also offer fence repair services to address any damage caused by storms or general wear and tear.",
+        "localContext": "Overland Park is a large suburban city known for its excellent schools, family-friendly atmosphere, and well-maintained properties, including many homes with large yards perfect for fencing.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Lujan Fencing provides comprehensive fencing solutions to the growing community of Olathe, Missouri. With its family-oriented neighborhoods developed primarily between the 1980s and 2000s, Olathe boasts a diverse range of properties that require tailored fencing solutions. Whether you are looking to enhance your backyard privacy, create a safe play area for children, or add a decorative touch to your landscape, we have the expertise to meet your needs. \n\nWe understand the importance of quality and durability, especially given the region's exposure to cold winters and ice storms. Our fences are constructed using premium materials and proven techniques to ensure long-lasting performance and protection. We offer a wide selection of fence styles, including wood, vinyl, chain-link, and ornamental iron, to complement your home's architecture and personal preferences. We provide free consultations and estimates for all fencing projects in Olathe.",
+        "localContext": "Olathe is a thriving city known for its strong sense of community, excellent schools, and numerous parks and recreational opportunities, with many homes needing perimeter fencing.",
+        "nearbyAreas": [
+          "Gardner",
+          "Lenexa",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Lujan Fencing is dedicated to serving the residents of Lee's Summit, MO, with top-quality fencing services. Characterized by its established family homes built primarily in the 1970s, 80s, and 90s, Lee's Summit offers a unique blend of suburban charm and modern amenities. We recognize the importance of choosing the right fence to enhance your property's value, security, and aesthetic appeal.\n\nOur team is experienced in working with a variety of fence materials, including wood, vinyl, chain-link, and ornamental iron, to suit your specific needs and preferences. We are also aware of the challenges posed by the region's climate, including cold winters and ice storms, and we take extra precautions to ensure that your fence is built to withstand the elements and provide lasting performance. We are committed to providing exceptional customer service and delivering results that exceed your expectations, especially in this family-friendly community.",
+        "localContext": "Lee's Summit is a vibrant city known for its excellent schools, beautiful parks, and strong sense of community, with many homes seeking to improve their backyard privacy.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raymore"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Lujan Fencing is a leading provider of fencing solutions in Kansas City, MO, serving the diverse needs of homeowners and businesses throughout the area. From historic neighborhoods to modern developments, we offer a wide range of fence styles and materials to complement any property.\n\nOur experienced team is equipped to handle any fencing project, big or small, with professionalism and attention to detail. We understand the importance of quality craftsmanship and durable materials, especially given the region's seasonal weather patterns. Whether you need a new fence installed, an existing fence repaired, or a custom gate designed, we are here to help. We are proud to serve the heart of the metro area.",
+        "localContext": "Kansas City is a major metropolitan area with a rich history and diverse architecture, with a growing demand for fencing solutions to enhance security and privacy.",
+        "nearbyAreas": [
+          "North Kansas City",
+          "Overland Park",
+          "Independence"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Lujan Fencing extends its expert fencing services to Independence, MO, a city rich in history and community spirit. We understand the unique character of Independence and offer fencing solutions that blend seamlessly with its diverse architecture.\n\nWhether you're looking to secure your property, enhance its curb appeal, or create a safe space for your family and pets, our team is ready to assist you. We offer a variety of fence styles and materials, including wood, vinyl, chain-link, and ornamental iron, to meet your specific needs and preferences. Our commitment to quality craftsmanship and customer satisfaction ensures that your fencing project will be a success.",
+        "localContext": "Independence is a historic city with a strong sense of community and a mix of residential and commercial properties, with a growing need for reliable fencing services.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Lujan Fencing is proud to serve the residents of Blue Springs, MO, with reliable and affordable fencing solutions. Known for its family-friendly atmosphere and well-maintained neighborhoods, Blue Springs is a thriving community where we are committed to providing exceptional service.\n\nWe offer a wide range of fence styles and materials to suit any property, from classic wood fences to low-maintenance vinyl options. Our experienced team will work closely with you to understand your needs and preferences, ensuring that your fencing project is completed to your satisfaction. We are dedicated to providing quality craftsmanship and lasting value to the residents of Blue Springs.",
+        "localContext": "Blue Springs is a family-oriented city with a strong sense of community and a growing number of residential properties, with many homeowners looking to enhance their outdoor spaces with fencing.",
+        "nearbyAreas": [
+          "Independence",
+          "Lee's Summit",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Raymore",
+        "slug": "raymore-mo",
+        "state": "MO",
+        "content": "Lujan Fencing proudly serves Raymore, MO, providing top-notch fencing services to this growing community. Raymore's appeal lies in its blend of rural charm and suburban convenience, making it a desirable place for families and individuals alike. We understand the importance of having a reliable and aesthetically pleasing fence for your property.\n\nWe offer a variety of fencing options to suit your needs, whether it's for privacy, security, or decorative purposes. Our team is skilled in installing wood, vinyl, chain-link, and ornamental fences, ensuring that your fence not only looks great but also withstands the test of time. We're dedicated to providing excellent customer service and quality workmanship to every Raymore resident.",
+        "localContext": "Raymore is a rapidly growing city with a mix of established neighborhoods and new developments, with an increasing demand for fencing solutions to enhance property values and security.",
+        "nearbyAreas": [
+          "Belton",
+          "Lee's Summit",
+          "Pleasant Hill"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Lujan Fencing is pleased to offer its professional fencing services to the residents of Lenexa, MO. Lenexa is a vibrant city known for its thriving business community and family-friendly atmosphere. We recognize the importance of having a secure and attractive fence to protect your property and enhance its curb appeal.\n\nWe provide a wide range of fencing options to meet your specific needs, including wood, vinyl, chain-link, and ornamental iron fences. Our experienced team will work with you to select the perfect fence for your property and ensure that it is installed correctly and efficiently. We are committed to providing exceptional customer service and lasting value to the residents of Lenexa.",
+        "localContext": "Lenexa is a growing city with a mix of residential and commercial properties, with a strong demand for fencing solutions to enhance security and privacy.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Lujan Fencing is dedicated to providing top-quality fencing solutions to the residents of Shawnee, MO. Shawnee offers a unique blend of historical charm and modern amenities, making it a desirable place to live and work. We understand the importance of having a fence that not only provides security and privacy but also complements the aesthetic of your property.\n\nOur team is experienced in installing a variety of fence styles, from traditional wood fences to durable vinyl and chain-link options. We take pride in our craftsmanship and attention to detail, ensuring that your fence is built to last. We are committed to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Shawnee is a well-established city with a mix of historic homes and newer developments, creating a diverse need for various types of fencing.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Lenexa",
+          "Kansas City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Lujan Fencing did an amazing job installing our new wood privacy fence. The team was professional, efficient, and the fence looks fantastic. They really understood the challenges with our sloping yard in Waldo and built a fence that looks great and provides the privacy we wanted. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "We needed a chain link fence installed quickly for our commercial property near Union Station. Lujan Fencing provided a competitive quote and completed the job on time and within budget. The fence is sturdy and secure, just what we needed.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We chose Lujan Fencing to install a vinyl fence around our pool in Overland Park. They were very helpful in choosing the right style and color to match our house. The installation was smooth and the fence looks beautiful. We're very happy with the results!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Fence Repair Services",
+        "text": "After a bad ice storm, our wood fence had several broken posts. Lujan Fencing came out quickly and repaired the fence efficiently and professionally. Their prices were fair and they saved us from having to replace the entire fence.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 4,
+        "service": "Ornamental Iron Fence Installation",
+        "text": "Lujan Fencing installed a beautiful ornamental iron fence around our front yard in Brookside. It really adds to the curb appeal of our home. There were a few minor issues during installation, but they were quick to address them and ensure our satisfaction.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Brian L.",
+        "rating": 5,
+        "service": "Gate Installation & Repair",
+        "text": "Our driveway gate was malfunctioning and Lujan Fencing was able to diagnose and repair it quickly. They were knowledgeable, professional, and their prices were reasonable. We highly recommend their gate repair services.",
+        "date": "2025-02-14"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Lujan Fencing | Kansas City Fence Company",
+        "description": "Trusted Kansas City fence company. Wood, vinyl, chain link fences. Expert installation & repair. Free quotes!"
+      },
+      "about": {
+        "title": "About Lujan Fencing | Kansas City MO",
+        "description": "Learn about Lujan Fencing's commitment to quality and serving Kansas City homeowners and businesses."
+      },
+      "services": {
+        "title": "Fence Services | Kansas City | Lujan Fencing",
+        "description": "Wood, vinyl, chain link fence installation & repair in Kansas City. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Lujan Fencing | Kansas City MO",
+        "description": "Contact Lujan Fencing for fence installation & repair in Kansas City. Free estimates. Call today!"
+      },
+      "reviews": {
+        "title": "Lujan Fencing Reviews | Kansas City MO",
+        "description": "Read reviews of Lujan Fencing in Kansas City. See why our customers trust us for fence installation & repair."
+      },
+      "service-areas": {
+        "title": "Lujan Fencing Service Areas | Kansas City",
+        "description": "Lujan Fencing provides fence services in Kansas City, Overland Park, Olathe, Lee's Summit, and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fences": "/images/service-wood-fences.webp",
+      "vinyl-fences": "/images/service-vinyl-fences.webp",
+      "chain-link-fences": "/images/service-chain-link-fences.webp",
+      "ornamental-iron-fences": "/images/service-ornamental-iron-fences.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fences": {
+        "src": "/images/service-wood-fences.webp",
+        "srcset": "/images/service-wood-fences-400w.webp 400w, /images/service-wood-fences-800w.webp 800w, /images/service-wood-fences-1200w.webp 1200w, /images/service-wood-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fences": {
+        "src": "/images/service-vinyl-fences.webp",
+        "srcset": "/images/service-vinyl-fences-400w.webp 400w, /images/service-vinyl-fences-800w.webp 800w, /images/service-vinyl-fences-1200w.webp 1200w, /images/service-vinyl-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fences": {
+        "src": "/images/service-chain-link-fences.webp",
+        "srcset": "/images/service-chain-link-fences-400w.webp 400w, /images/service-chain-link-fences-800w.webp 800w, /images/service-chain-link-fences-1200w.webp 1200w, /images/service-chain-link-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ornamental-iron-fences": {
+        "src": "/images/service-ornamental-iron-fences.webp",
+        "srcset": "/images/service-ornamental-iron-fences-400w.webp 400w, /images/service-ornamental-iron-fences-800w.webp 800w, /images/service-ornamental-iron-fences-1200w.webp 1200w, /images/service-ornamental-iron-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
